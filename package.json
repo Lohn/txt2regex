@@ -1,0 +1,10 @@
+{
+"name": "txt2regex",
+"version": "0.9",
+"description": "Regular expression wizard for the command line",
+"global": "false",
+"install": "install txt2regex.sh /usr/local/bin/txt2regex",
+"scripts": [
+"txt2regex"
+]
+}
